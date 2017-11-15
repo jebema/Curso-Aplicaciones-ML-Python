@@ -6,5 +6,6 @@ Para poder correr el código que se muestra aquí tienes que abrirlo en jupyter 
 numpy <br>
 openCV <br>
 matplotlib <br>
+sklearn <br>
 
 Es probable que debas instalar openCV en python 3.5. Para esto, puedes crear un ambiente con python 3.5 en anaconda.
